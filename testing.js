@@ -1,1 +1,1 @@
-const weDidIt = "Yay"
+const weMadeOurFirstPROnGitHub = "Yay"
