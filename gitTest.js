@@ -1,0 +1,3 @@
+(boopity) => {
+    console.log(boopity)
+}
